@@ -13,6 +13,8 @@ add_exc.m next. It adds the final exclusion criteria to to the data.
 
 collect_behav.m next. It calculates indices for the analyses of task behaviour.
 
+choice_sensitivity.m next. It preprocesses data for the choice sensitivity analyses.
+
 Q_diff_rt.m next. It preprocesses data for the Q value difference analyses.
 
 switch_prob.m next. It preprocesses data for the switch probability analyses.
