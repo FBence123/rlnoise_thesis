@@ -1,4 +1,6 @@
-# Code for my thesis, submitted at the ENS DEC, titled: Understanding individual differences in reward-guided learning as an efficient adaptation to task uncertainty and early life adversity: a pre-registered study in a large online sample
+## Code for my thesis, submitted at the ENS DEC, titled: Understanding individual differences in reward-guided learning as an efficient adaptation to task uncertainty and early life adversity: a pre-registered study in a large online sample
+
+This repository contains Matlab and R scripts, required to reproduce all results presented in the thesis. The scripts should be run in a predefined order, described below, along with a brief description of what each file does.
 
 ## Matlab scripts for preprocessing
 collect_fits.m should be run first. It collects and saves the fitting results for all subjects.
